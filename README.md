@@ -1,2 +1,3 @@
-# StatCal
- 
+<h1 align="center">Stat Cal</h1>
+
+This repository contains a JavaFX-based statistical calculator designed to compute essential measures like mean, median, mode, and variance. The calculator employs a user-friendly interface built using JavaFX, allowing users to input data sets and swiftly obtain statistical results. This project integrates statistical algorithms and a clean UI for seamless calculation and presentation of statistical measures
